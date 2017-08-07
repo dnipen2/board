@@ -1,5 +1,5 @@
 <?php
 
-  echo "HELLO WORLD";
+  echo "index page";
 
 ?>
